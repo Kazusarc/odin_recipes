@@ -16,7 +16,7 @@ a{
 .logo{
     height: 150px;
     width: auto;
-    position: absolute;
+    position: fixed;
     right: 20%;
     top: 3%;
 }
