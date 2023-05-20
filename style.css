@@ -1,0 +1,47 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(223, 186, 131);
+}
+#web-borders{
+    background-color: antiquewhite;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 12px;
+    padding: 5px;
+    padding-left: 12px;
+}
+a{
+    color: rgb(39, 67, 109);
+}
+.logo{
+    height: 150px;
+    width: auto;
+    position: absolute;
+    right: 20%;
+    top: 3%;
+}
+p{
+    font-size: medium;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 60%;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+img{
+    border-radius: 7px;
+}
+.suborder{
+    background-color: antiquewhite;
+    margin-top: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 12px;
+    padding: 5px;
+    padding-left: 12px;
+}
