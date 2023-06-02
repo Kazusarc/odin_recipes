@@ -2,6 +2,15 @@ body{
     font-family: 'Courier New', Courier, monospace;
     background-color: rgb(223, 186, 131);
 }
+.flex-container{
+    display: flex;
+}
+.flex-container > div{
+    flex: 1;
+}
+.flex-container > li{
+    flex: 1;
+}
 #web-borders{
     background-color: antiquewhite;
     margin-left: 20%;
@@ -16,9 +25,6 @@ a{
 .logo{
     height: 150px;
     width: auto;
-    position: fixed;
-    right: 20%;
-    top: 3%;
 }
 p{
     font-size: medium;
@@ -28,6 +34,7 @@ p{
 }
 h1{
     font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
 }
 li{
     margin-top: 10px;
@@ -45,3 +52,7 @@ img{
     padding: 5px;
     padding-left: 12px;
 }
+/*
+*{
+    border: 2px solid red;
+}*/
